@@ -21,6 +21,5 @@ def hello_world(string, value):
     else:
         return False
 
-new_string = "Hello World"
 
-binary_value = hello_world(new_string, 2)
+value = hello_world("HELLO WORLD", 2)
