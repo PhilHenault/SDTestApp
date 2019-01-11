@@ -24,17 +24,3 @@ def hello_world(string, value):
 new_string = "Hello World"
 
 binary_value = hello_world(new_string, 2)
-
-def hello_world2(string, value):
-    """
-    Returns True if a value is greater than 1, returns False otherwise.
-    """
-    if value > 1:
-        print(string)
-        return True 
-    else:
-        return False
-
-new_string = "Hello World"
-
-binary_value = hello_world(new_string, 2)
