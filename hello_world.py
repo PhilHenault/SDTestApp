@@ -22,4 +22,4 @@ def hello_world(string, value):
         return False
 
 
-value = hello_world("HELLO WORLD", 6)
+value = hello_world("HELLO WORLD", 7)
