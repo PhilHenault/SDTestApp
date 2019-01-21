@@ -38,4 +38,37 @@ for i in range(0,10):
 	if i % 2 == 0:
 		print(i)
 
+value1 = hello_world("HELLO WORLD", 2)
+
+value2 = hello_world("HELLO WORLD", 2)
+
+#Test
+#Test
+#Test
+
+for i in range(0,10):
+	if i % 2 == 0:
+		print(i)
+
+
+#Test
+#Test
+#Test
+
+for i in range(0,10):
+	if i % 2 == 0:
+		print(i)
+
+value1 = hello_world("HELLO WORLD", 2)
+
+value2 = hello_world("HELLO WORLD", 2)
+
+#Test
+#Test
+#Test
+
+for i in range(0,10):
+	if i % 2 == 0:
+		print(i)
+
 
