@@ -69,7 +69,6 @@ value2 = hello_world("HELLO WORLD", 2)
 
 #Test
 #Test
-#Test
 
 for i in range(0,10):
 	if i % 2 == 0:
