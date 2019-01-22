@@ -49,47 +49,6 @@ for i in range(0,10):
         print(i)
 
 
-value2 = hello_world("HELLO WORLD", 2)
-
-
-def hello_world(string, value):
-    """
-    Returns True if a value is greater than 1, returns False otherwise.
-    """
-    if value > 1:
-        print(string)
-        return True 
-    else:
-        return False
-
-
-
-for i in range(0,10):
-    if i % 2 == 0:
-        print(i)
-
-def hello_world(string, value):
-    """
-    Returns True if a value is greater than 1, returns False otherwise.
-    """
-    if value > 1:
-        print(string)
-        return True 
-    else:
-        return False
-
-
-
-for i in range(0,10):
-    if i % 2 == 0:
-        print(i)
-
-
-for i in range(0,10):
-    if i % 2 == 0:
-        print(i)
-
-
-value2 = hello_world("HELLO WORLD", 2)
+        
 
 
