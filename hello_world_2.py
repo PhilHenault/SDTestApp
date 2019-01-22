@@ -44,6 +44,11 @@ for i in range(0,10):
 		print(i)
 
 
+for i in range(0,10):
+    if i % 2 == 0:
+        print(i)
+
+
 value2 = hello_world("HELLO WORLD", 2)
 
 
