@@ -38,13 +38,6 @@ def hello_world(string, value):
         return False
 
 
-value = hello_world("HELLO WORLD", 2)
-
-
-
-value1 = hello_world("HELLO WORLD", 2)
-
-value2 = hello_world("HELLO WORLD", 2)
 
 #Test
 #Test
