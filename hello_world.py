@@ -56,30 +56,6 @@ def hello_world2(string, value):
 
 
 
-# This is a sample comment block 
-# showing how our model predicts 
-# this as being progress representative
-# of commenting work. The model should
-# return a classification of 'Commenting' 
-# and insert results into MongoDB.
-
-# This is a sample comment block 
-# showing how our model predicts 
-# this as being progress representative
-# of commenting work. The model should
-# return a classification of 'Commenting' 
-# and insert results into MongoDB.
-
-
-# This is a sample comment block 
-# showing how our model predicts 
-# this as being progress representative
-# of commenting work. The model should
-# return a classification of 'Commenting' 
-# and insert results into MongoDB.
-
-
-
 
 
 
